@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Firas-latrach
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+
 
 
 <!---
